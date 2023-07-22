@@ -1,0 +1,41 @@
+.container {
+  width: 1320px;
+  margin: 0 auto;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.display {
+  display: flex;
+}
+.no {
+  width: 450px;
+}
+.items {
+  text-align: center;
+}
+
+.country {
+  background: rgb(241, 227, 227);
+  width: 300px;
+  border-radius: 20px;
+  height: auto;
+  padding-right: 20px;
+  margin: 20px 0;
+}
+
+.country h5 {
+  margin: 2px 0;
+}
+.country h2 {
+  margin: 2px 0;
+}
+.country h3 {
+  margin: 2px 0;
+}
+.country h4 {
+  margin: 2px 0;
+}
